@@ -1,0 +1,14 @@
+@import url('./__num/advice__num.css');
+@import url('./__quote/advice__quote.css');
+@import url('./__btn/advice__btn.css');
+@import url('./__dice/advice__dice.css');
+
+.advice{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 500px;
+    min-height: 300px;
+    border-radius: 15px;
+    background-color:hsl(217, 19%, 38%);
+}

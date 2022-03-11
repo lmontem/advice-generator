@@ -1,0 +1,11 @@
+.advice__btn{
+    border-radius: 50%;
+    border: none;
+    min-height: 50px;
+    max-width: 50px;
+    
+    background-color: hsl(150, 100%, 66%);
+}
+
+/*need to center the dice.
+also need to put btn halfway on advice box bottom*/
